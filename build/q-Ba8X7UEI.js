@@ -1,0 +1,1 @@
+import{P as i}from"./q-AJtqtz_3.js";const n="/build/q-uOW82FhY.webp 200w, /build/q-4fKdvPuU.webp 400w, /build/q-D1GWFvML.webp 600w, /build/q-CoVGs9lf.webp 800w, /build/q-DD7BZciK.webp 1200w",o=1200,t=1280,u={srcSet:n,width:o,height:t};function s(d,e,w,b){return i("img",{decoding:"async",loading:"lazy",...d},u,void 0,3,e)}export{s as I};
